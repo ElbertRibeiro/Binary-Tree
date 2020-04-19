@@ -1,13 +1,14 @@
 import modules.createArvore
 
 
-raiz = modules.createArvore.NodoArvore(40)
+raiz = modules.createArvore.NodoArvore(50)
 
-raiz.esquerda = modules.createArvore.NodoArvore(20)
-raiz.direita = modules.createArvore.NodoArvore(60)
-raiz.direita.esquerda = modules.createArvore.NodoArvore(50)
-raiz.direita.direita = modules.createArvore.NodoArvore(70)
-raiz.esquerda.esquerda = modules.createArvore.NodoArvore(10)
-raiz.esquerda.direita = modules.createArvore.NodoArvore(30)
+raiz.esquerda = modules.createArvore.NodoArvore(17)
+raiz.direita = modules.createArvore.NodoArvore(76)
+
+raiz.direita.esquerda = modules.createArvore.NodoArvore(54)
+
+raiz.esquerda.esquerda = modules.createArvore.NodoArvore(9)
+raiz.esquerda.direita = modules.createArvore.NodoArvore(23)
 
 print("Árvore: ", raiz)
