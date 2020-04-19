@@ -12,6 +12,6 @@ raiz.esquerda.direita = modules.createArvore.NodoArvore(30)
 
 
 #raiz = modules.createArvore.NodoArvore(3)
-#aiz.esquerda = modules.createArvore.NodoArvore(5)
+#raiz.esquerda = modules.createArvore.NodoArvore(5)
 #raiz.direita  = modules.createArvore.NodoArvore(1)
 print("Árvore: ", raiz)
