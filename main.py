@@ -1,6 +1,6 @@
+import modules.createArvore
 
-
-raiz = NodoArvore(3)
-raiz.esquerda = NodoArvore(5)
-raiz.direita  = NodoArvore(1)
+raiz = modules.createArvore.NodoArvore(3)
+raiz.esquerda = modules.createArvore.NodoArvore(5)
+raiz.direita  = modules.createArvore.NodoArvore(1)
 print("Árvore: ", raiz)
