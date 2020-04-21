@@ -1,15 +1,4 @@
-#import modules.tree
-#import modules.searchPreOrdem
-
 import modules.tree
-
-#listar arvore
-#print(modules.tree.funTree())
-
-
-# pre-oredem
-# print(modules.searchPreOrdem.funSearch())
-
 
 arv = modules.tree.Tree()
 print("Programa Arvore Binaria")
