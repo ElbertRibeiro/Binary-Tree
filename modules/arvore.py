@@ -4,5 +4,5 @@ class Tree:
         self.left = left
         self.right = right
 
-  def __str__(self) :
-    return str(self.cargo)
+    def __str__(self):
+        return str(self.cargo)
