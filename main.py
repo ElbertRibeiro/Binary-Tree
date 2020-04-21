@@ -1,7 +1,7 @@
 #import modules.tree
 #import modules.searchPreOrdem
 
-import modules.arvore
+import modules.tree
 
 #listar arvore
 #print(modules.tree.funTree())
@@ -11,11 +11,11 @@ import modules.arvore
 # print(modules.searchPreOrdem.funSearch())
 
 
-arv = modules.arvore.Tree()
+arv = modules.tree.Tree()
 print("Programa Arvore Binaria")
 opcao = 0
 while opcao != 5:
-    
+
      print("Entre com a opcao:")
      print(" --- 1: Inserir")
      print(" --- 2: Excluir")
