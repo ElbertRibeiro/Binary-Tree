@@ -1,3 +1,8 @@
 https://algoritmosempython.com.br/cursos/algoritmos-python/estruturas-dados/arvores
 
 https://algoritmosempython.com.br/cursos/algoritmos-python/estruturas-dados/heaps
+
+https://www.ime.usp.br/~pf/mac0122-2002/aulas/trees.html
+
+
+https://pt.stackoverflow.com/questions/266984/%c3%81rvore-bin%c3%a1ria-com-percurso-em-ordem-e-pr%c3%a9-ordem
