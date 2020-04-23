@@ -20,7 +20,7 @@ Python 3.7.7
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+[CONTRIBUTING](https://github.com/ElbertRibeiro/Binary-Tree/graphs/contributors) 
 
 ## Versioning
 
@@ -28,7 +28,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Elbert Ribeiro** - [**ElbertRibeiro**](https://github.com/ElbertRibeiro)
+* [**ElbertRibeiro**](https://github.com/ElbertRibeiro)
 
 See also the list of [contributors](https://github.com/your/Binary-Tree/contributors) who participated in this project.
 
