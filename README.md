@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+[Python 3.7](https://www.python.org/)
 ```
 
 ### Installing
@@ -74,7 +74,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Elbert Ribeiro** - *Initial work* - [ElbertRibeiro](https://github.com/ElbertRibeiro)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
