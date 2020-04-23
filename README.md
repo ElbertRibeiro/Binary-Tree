@@ -2,8 +2,6 @@
 
 This project was developed for academic purposes. It is a binary tree, made entirely in python and using the python design structure.
 
-[![Build Status](https://travis-ci.org/vspedr/developets.svg?branch=master)](https://travis-ci.org/vspedr/developets)
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -13,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 
-[![Python 3.7](https://travis-ci.org/vspedr/developets.svg?branch=master)](https://www.python.org/)
+[![Python](https://travis-ci.org/vspedr/developets.svg?branch=master)](https://www.python.org/)
 
 
 ### Installing
