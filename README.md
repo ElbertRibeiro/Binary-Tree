@@ -22,10 +22,6 @@ Python 3.7.7
 
 [CONTRIBUTING](https://github.com/ElbertRibeiro/Binary-Tree/graphs/contributors) 
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
 * [**ElbertRibeiro**](https://github.com/ElbertRibeiro)
