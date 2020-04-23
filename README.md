@@ -28,7 +28,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Elbert Ribeiro** - *Initial work* - [ElbertRibeiro](https://github.com/ElbertRibeiro)
+* **Elbert Ribeiro** - [**ElbertRibeiro**](https://github.com/ElbertRibeiro)
 
 See also the list of [contributors](https://github.com/your/Binary-Tree/contributors) who participated in this project.
 
