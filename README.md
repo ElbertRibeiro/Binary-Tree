@@ -12,7 +12,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-[Python 3.7](https://www.python.org/)
+
+[Python 3.7](https://www.python.org/)](https://travis-ci.org/vspedr/developets)
 
 
 ### Installing
