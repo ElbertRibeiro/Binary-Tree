@@ -34,7 +34,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* [Stackoverflow](https://pt.stackoverflow.com/questions/266984/c3%81rvore-bin%c3%a1ria-com-percurso-em-ordem-e-pr%c3%a9-ordem)
+
+* [Estruturas de Dados - Heaps](https://algoritmosempython.com.br/cursos/algoritmos-python/estruturas-dados/heaps)
+
+* [Estruturas de Dados - Tree](https://algoritmosempython.com.br/cursos/algoritmos-python/estruturas-dados/arvores)
+
+* [IME - Trees](https://www.ime.usp.br/~pf/mac0122-2002/aulas/trees.html)
+
+* [Code Inspiration](https://gist.github.com/divanibarbosa/a8662693e44ab9ee0d0e8c2d74808929)
 
