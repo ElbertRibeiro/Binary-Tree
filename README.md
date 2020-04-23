@@ -1,6 +1,8 @@
-# Project Title
+# Binary Tree
 
-One Paragraph of project description goes here
+This project was developed for academic purposes. It is a binary tree, made entirely in python and using the python design structure.
+
+[![Build Status](https://travis-ci.org/vspedr/developets.svg?branch=master)](https://travis-ci.org/vspedr/developets)
 
 ## Getting Started
 
