@@ -26,7 +26,7 @@ Python 3.7.7
 
 * [**ElbertRibeiro**](https://github.com/ElbertRibeiro)
 
-See also the list of [contributors](https://github.com/your/Binary-Tree/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/ElbertRibeiro/Binary-Tree/contributors) who participated in this project.
 
 ## License
 
