@@ -1,6 +1,6 @@
-import modules.tree
+import package.tree
 
-arv = modules.tree.Tree()
+arv = package.tree.Tree()
 print("Programa Arvore Binaria")
 opcao = 0
 while opcao != 5:
