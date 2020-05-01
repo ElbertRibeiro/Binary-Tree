@@ -32,6 +32,10 @@ See also the list of [contributors](https://github.com/ElbertRibeiro/Binary-Tree
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
+## ToDo-List for Project
+
+To see what changes need to be made to the project, see the [link](https://github.com/ElbertRibeiro/Binary-Tree/projects/1)
+
 ## Acknowledgments
 
 * [Stackoverflow](https://pt.stackoverflow.com/questions/266984/c3%81rvore-bin%c3%a1ria-com-percurso-em-ordem-e-pr%c3%a9-ordem)
